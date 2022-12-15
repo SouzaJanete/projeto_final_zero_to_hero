@@ -21,54 +21,54 @@ p {
   margin-bottom: 20px;
 }
 
-#title{
+#title {
   flex-direction: column;
   line-height: 10px;
 }
 
-li{
+li {
   display: inline-block;
   margin: 20px;
 }
 
-a{
+a {
   color: white;
 }
 
-a:hover{
+a:hover {
   color: rgb(132, 14, 201);
   transition: 0.3s all;
 }
 
-#inscreva-se-btn{
+#inscreva-se-btn {
   border: 2px solid rgb(132, 14, 201);
   padding: 10px;
   border-radius: 15px;
 }
 
-#inscreva-se-btn:hover{
+#inscreva-se-btn:hover {
   background-color: rgb(132, 14, 201);
   color: white;
 }
 
-main{
-    display: flex;
-    flex-direction: column;
-    margin-top: 50px;
-    flex-wrap: nowrap;
-    align-content: flex-end;
-    justify-content: center;
-    align-items: flex-end;
+main {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  flex-wrap: nowrap;
+  align-content: flex-end;
+  justify-content: center;
+  align-items: flex-end;
 }
 
-span{
-color: rgb(132, 14, 201);
+span {
+  color: rgb(132, 14, 201);
 }
 
-p{
-line-height: 20px;
-max-width: 850px;
-font-family: poppinslight;
+p {
+  line-height: 20px;
+  max-width: 850px;
+  font-family: poppinslight;
 }
 
 
@@ -83,10 +83,10 @@ font-family: poppinslight;
 }
 
 .container {
-  
+
   margin: 0 auto;
   max-width: 1024px;
-  img:left
+  img: left;
 }
 
 #page-header h1 {
@@ -165,7 +165,7 @@ nav a {
 
 #page-header .container {
   position: relative;
-  
+
 }
 
 #page-header #page-header-content {
@@ -177,7 +177,7 @@ nav a {
 
 #page-header #page-header-content h2 {
   font-size: 30px;
- 
+
 
 }
 
